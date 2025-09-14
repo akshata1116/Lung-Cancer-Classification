@@ -39,4 +39,3 @@ The system aims to assist **medical professionals, researchers, and patients** b
 
 ---
 
-## 📂 Project Structure
